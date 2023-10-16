@@ -399,3 +399,19 @@ article .icon{
 .email-icon{
     height: 2.5rem;
 }
+/* Projects */
+.amazon-clone{
+    background-image: url("./assets/amazon.jpg");
+    height: 21rem;
+    background-size: cover;
+}
+.notes-sec{
+    background-image: url("./assets/notes.png");
+    height: 21rem;
+    background-size: cover;
+}
+.llm1{
+    background-image: url("./assets/LLm.png");
+    height: 27rem;
+    background-size: cover;
+}
