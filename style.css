@@ -400,6 +400,9 @@ article .icon{
     height: 2.5rem;
 }
 /* Projects */
+#projects{
+    margin-top: 5rem;
+}
 .amazon-clone{
     background-image: url("./assets/amazon.jpg");
     height: 21rem;
@@ -411,7 +414,18 @@ article .icon{
     background-size: cover;
 }
 .llm1{
-    background-image: url("./assets/LLm.png");
-    height: 27rem;
+    background-image: url("./assets/LLm.jpg");
+    height: 21rem;
     background-size: cover;
+}
+.llm2{
+    background-image: url("./assets/llm2.jpg");
+    height: 21rem;
+    background-size: cover;
+}
+.llmm2{
+    width: 290px;
+}
+.last{
+    margin-top: 10rem;
 }
