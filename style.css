@@ -206,3 +206,51 @@ section{
 .btn-container{
     gap: 1rem;
 }
+
+/* About Section*/
+.section-container{
+    display: flex;
+    height: 80%;
+}
+.text-container{
+    display: flex;
+    padding-left: 4rem;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#about{
+    position: relative;
+}
+
+.about-containers{
+    display: flex;
+    gap:2rem;
+    padding-top: 2.5rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-size: 0.75rem;
+}
+.about-details-container{
+    justify-content: center;
+    flex-direction: column;
+    padding: 2.5rem;
+}
+
+.about-pic{
+    border-radius: 2rem;
+}
+.arrow{
+    position: absolute;
+    right: -5rem;
+    bottom: 2.5rem;
+}
+
+.details-container{
+    padding:1rem;
+    flex:1;
+    background: whitesmoke;
+    border-radius: 2rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+}
