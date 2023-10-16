@@ -253,4 +253,92 @@ section{
     border: rgb(53,53,53) 0.1rem solid;
     border-color: rgb(163,163,163);
     text-align: center;
+    justify-content: center;
+}
+
+/*Skills section*/
+#skills{
+    display: inline-block;
+    position: relative;
+    
+}
+.skills-title{
+    margin-top: -1rem;
+    margin-bottom: -3.4rem;
+}
+.skills-sub-title{
+    color: rgb(85,85,85);
+    font-weight: 600;
+    font-size: 1.75rem;
+    padding:1.2rem;
+    margin-bottom: 10%;
+}
+.skills-details-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    margin-top: 0;
+}
+
+.article-container{
+    display: flex;
+    text-align: initial;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 2.5rem;
+    justify-content: space-around;
+}
+article{
+    display: flex;
+    width: 10rem;
+    align-items: center;
+    gap:0.5rem;
+}
+article .icon{
+    cursor: default;
+}
+.details-container-1{
+    padding:1rem;
+    flex:1;
+    background: whitesmoke;
+    border-radius: 2rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+    justify-content: center;
+    height: 36rem;
+}
+.details-container-2{
+    padding:1rem;
+    flex:1;
+    background: whitesmoke;
+    border-radius: 2rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+    justify-content: center;
+    height: 31rem;
+}
+.details-container-3{
+    padding:1rem;
+    flex:1;
+    background: whitesmoke;
+    border-radius: 2rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+    justify-content: space-evenly;
+    height: 17rem;
+}
+.details-container-4{
+    padding:1rem;
+    flex:1;
+    background: whitesmoke;
+    border-radius: 2rem;
+    border: rgb(53,53,53) 0.1rem solid;
+    border-color: rgb(163,163,163);
+    text-align: center;
+    justify-content: center;
+    height: 25rem;
 }
