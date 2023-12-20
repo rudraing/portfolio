@@ -248,6 +248,7 @@ section{
 .details-container{
     padding:1rem;
     flex:1;
+    margin: 10px;
     background: whitesmoke;
     border-radius: 2rem;
     border: rgb(53,53,53) 0.1rem solid;
@@ -370,6 +371,7 @@ article .icon{
     display:flex;
     justify-content: center;
     flex-direction: column;
+    margin-top: 785px;
     height: 70vh;
 }
 .contact-info-upper-container{
@@ -407,24 +409,46 @@ article .icon{
     background-image: url("./assets/amazon.jpg");
     height: 21rem;
     background-size: cover;
+    border-radius: 2rem;
 }
 .notes-sec{
     background-image: url("./assets/notes.png");
     height: 21rem;
     background-size: cover;
+    border-radius: 2rem;
+}
+
+.llm2{
+    background-image: url("./assets/llm2.jpg");
+    height: 21rem;
+    background-size: cover;
+    border-radius: 2rem;
+}
+.llmm2{
+    width: 290px;
+    border-radius: 2rem;
+}
+.skills-details-container2{
+    display: flex;     
 }
 .llm1{
     background-image: url("./assets/LLm.jpg");
     height: 21rem;
     background-size: cover;
+    border-radius: 2rem;
+    
 }
-.llm2{
-    background-image: url("./assets/llm2.jpg");
+.neural-network{
+    background-image: url("./assets/neural\ network.png");
     height: 21rem;
     background-size: cover;
+    border-radius: 2rem;    
 }
-.llmm2{
-    width: 290px;
+.self-drive{
+    background-image: url("./assets/self-driving.png");
+    height: 21rem;
+    background-size: cover;
+    border-radius: 2rem;
 }
 .last{
     margin-top: 10rem;
