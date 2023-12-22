@@ -439,13 +439,13 @@ article .icon{
     
 }
 .neural-network{
-    background-image: url("./assets/neural\ network.png");
+    background-image: url("./assets/NN.jpg");
     height: 21rem;
     background-size: cover;
     border-radius: 2rem;    
 }
 .self-drive{
-    background-image: url("./assets/self-driving.png");
+    background-image: url("./assets/self-driving.jpg");
     height: 21rem;
     background-size: cover;
     border-radius: 2rem;
