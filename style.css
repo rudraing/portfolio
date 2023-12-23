@@ -164,6 +164,12 @@ section{
     margin-top: 1rem;
     gap: 1rem;
 }
+#socials-container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
 /* ICONS */
 .icon{
     cursor: pointer;
