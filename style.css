@@ -256,6 +256,9 @@ section{
     text-align: center;
     justify-content: center;
 }
+.details-container1{
+    margin-top: 15px;
+}
 
 /*Skills section*/
 #skills{
